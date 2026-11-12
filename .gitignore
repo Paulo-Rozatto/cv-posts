@@ -1,0 +1,19 @@
+# Python & uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+
+# Raw font archive (keep extracted .ttf files tracked)
+fonts/*.zip
+
+# Rendered post outputs (remove these lines if you want to version outputs)
+posts/**/*.pdf
+posts/**/*.png
+posts/**/*.gif
+
+# Editor & OS
+.vscode/
+.DS_Store
+Thumbs.db
