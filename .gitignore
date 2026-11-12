@@ -17,3 +17,6 @@ posts/**/*.gif
 .vscode/
 .DS_Store
 Thumbs.db
+
+# ai generated example of syntax
+**/example/*
