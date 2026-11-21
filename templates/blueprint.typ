@@ -8,7 +8,7 @@
 #let blueprint-slide(
   tag: "IP • 01",
   title: "Slide Title",
-  footer: "paulo-rozatto",
+  footer: "@paulo-rozatto",
   body
 ) = {
   set page(
