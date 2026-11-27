@@ -128,8 +128,8 @@ Posts rotate evenly across four categories throughout the 26-week schedule:
 | :---: | :---: | :--- | :--- | :--- | :--- | :--- |
 | [x] | 01 | `week_001` | `[IP]` | Harr-like features | `posts/week_001/01_harr_like` | 4-Corner Lookup GIF |
 | [x] | 02 | `week_001` | `[DL]` | Depthwise Separable Convolutions | `posts/week_001/02_depthwise` | CeTZ + Typst PDF |
-| [ ] | 03 | `week_002` | `[IP]` | Bilateral Filtering vs. Gaussian Blur | `posts/week_002/bilateral_filter` | Edge-Preserving Profile PNG |
-| [ ] | 04 | `week_002` | `[IP]` | Non-Local Means Denoising | `posts/week_002/non_local_means` | Patch-Matching Diagram PNG |
+| [x] | 03 | `week_002` | `[IP]` | Bilateral Filtering vs. Gaussian Blur | `posts/week_002/bilateral_filter` | Side-by-side GIF |
+| [x] | 04 | `week_002` | `[IP]` | Gabor Filtering | `posts/week_002/gabor_filters` | Orientation Sweep GIF |
 | [ ] | 05 | `week_003` | `[IP]` | 2D Fourier Phase vs. Magnitude | `posts/week_003/fourier` | 2-Slide PDF + Swap GIF |
 | [ ] | 06 | `week_003` | `[DL]` | Self-Attention as an Adaptive Filter | `posts/week_003/self_attention_filter` | Static vs. Dynamic Kernel PDF |
 | [ ] | 07 | `week_004` | `[IP]` | Sobel vs. Canny Edge Detection | `posts/week_004/sobel_vs_canny` | Hysteresis Step GIF |

@@ -3,6 +3,7 @@ name = "cv-posts"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "colour-science>=0.4.7",
     "ipykernel>=7.4.0",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
